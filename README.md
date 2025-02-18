@@ -1,4 +1,4 @@
-<h2 align="left">Hello 🙋‍♂️! My name is Petros Gentekakis and I'm a Software Engineer, from Patra,Greece</h2>
+<h2 align="left">Hello 🙋‍♂️! My name is Petros Gentekakis and I'm a Software Engineer from Patra,Greece</h2>
 
 ###
 
